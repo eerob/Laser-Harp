@@ -1,0 +1,178 @@
+Added Component: Designator=J3_Laser1(PHOENIX_1935161)
+Added Component: Designator=J3_Laser2(PHOENIX_1935161)
+Added Component: Designator=J3_Laser3(PHOENIX_1935161)
+Added Component: Designator=J3_Laser4(PHOENIX_1935161)
+Added Component: Designator=J3_Laser5(PHOENIX_1935161)
+Added Component: Designator=J3_Laser6(PHOENIX_1935161)
+Added Component: Designator=J3_Laser7(PHOENIX_1935161)
+Added Component: Designator=J3_Laser8(PHOENIX_1935161)
+Added Component: Designator=R1_Laser1(3.6_R)
+Added Component: Designator=R1_Laser2(3.6_R)
+Added Component: Designator=R1_Laser3(3.6_R)
+Added Component: Designator=R1_Laser4(3.6_R)
+Added Component: Designator=R1_Laser5(3.6_R)
+Added Component: Designator=R1_Laser6(3.6_R)
+Added Component: Designator=R1_Laser7(3.6_R)
+Added Component: Designator=R1_Laser8(3.6_R)
+Added Component: Designator=R5_Laser1(AXIAL-0.3)
+Added Component: Designator=R5_Laser2(AXIAL-0.3)
+Added Component: Designator=R5_Laser3(AXIAL-0.3)
+Added Component: Designator=R5_Laser4(AXIAL-0.3)
+Added Component: Designator=R5_Laser5(AXIAL-0.3)
+Added Component: Designator=R5_Laser6(AXIAL-0.3)
+Added Component: Designator=R5_Laser7(AXIAL-0.3)
+Added Component: Designator=R5_Laser8(AXIAL-0.3)
+Added Component: Designator=U1_Laser1(TO-220AB)
+Added Component: Designator=U1_Laser2(TO-220AB)
+Added Component: Designator=U1_Laser3(TO-220AB)
+Added Component: Designator=U1_Laser4(TO-220AB)
+Added Component: Designator=U1_Laser5(TO-220AB)
+Added Component: Designator=U1_Laser6(TO-220AB)
+Added Component: Designator=U1_Laser7(TO-220AB)
+Added Component: Designator=U1_Laser8(TO-220AB)
+Added Component: Designator=U5_Laser1(TO-220AB)
+Added Component: Designator=U5_Laser2(TO-220AB)
+Added Component: Designator=U5_Laser3(TO-220AB)
+Added Component: Designator=U5_Laser4(TO-220AB)
+Added Component: Designator=U5_Laser5(TO-220AB)
+Added Component: Designator=U5_Laser6(TO-220AB)
+Added Component: Designator=U5_Laser7(TO-220AB)
+Added Component: Designator=U5_Laser8(TO-220AB)
+Added Pin To Net: NetName=GND Pin=R5_Laser1-1
+Added Pin To Net: NetName=GND Pin=R5_Laser2-1
+Added Pin To Net: NetName=GND Pin=R5_Laser3-1
+Added Pin To Net: NetName=GND Pin=R5_Laser4-1
+Added Pin To Net: NetName=GND Pin=R5_Laser5-1
+Added Pin To Net: NetName=GND Pin=R5_Laser6-1
+Added Pin To Net: NetName=GND Pin=R5_Laser7-1
+Added Pin To Net: NetName=GND Pin=R5_Laser8-1
+Added Pin To Net: NetName=Vled Pin=U1_Laser1-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser2-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser3-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser4-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser5-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser6-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser7-3
+Added Pin To Net: NetName=Vled Pin=U1_Laser8-3
+Added Pin To Net: NetName=GND Pin=U5_Laser1-3
+Added Pin To Net: NetName=GND Pin=U5_Laser2-3
+Added Pin To Net: NetName=GND Pin=U5_Laser3-3
+Added Pin To Net: NetName=GND Pin=U5_Laser4-3
+Added Pin To Net: NetName=GND Pin=U5_Laser5-3
+Added Pin To Net: NetName=GND Pin=U5_Laser6-3
+Added Pin To Net: NetName=GND Pin=U5_Laser7-3
+Added Pin To Net: NetName=GND Pin=U5_Laser8-3
+Added Pin To Net: NetName=NetJ3_Laser1_1 Pin=J3_Laser1-1
+Added Pin To Net: NetName=NetJ3_Laser1_1 Pin=R1_Laser1-2
+Added Pin To Net: NetName=NetJ3_Laser1_1 Pin=U1_Laser1-1
+Added Net: Name=NetJ3_Laser1_1
+Added Pin To Net: NetName=NetJ3_Laser1_2 Pin=J3_Laser1-2
+Added Pin To Net: NetName=NetJ3_Laser1_2 Pin=U5_Laser1-2
+Added Net: Name=NetJ3_Laser1_2
+Added Pin To Net: NetName=NetJ3_Laser2_1 Pin=J3_Laser2-1
+Added Pin To Net: NetName=NetJ3_Laser2_1 Pin=R1_Laser2-2
+Added Pin To Net: NetName=NetJ3_Laser2_1 Pin=U1_Laser2-1
+Added Net: Name=NetJ3_Laser2_1
+Added Pin To Net: NetName=NetJ3_Laser2_2 Pin=J3_Laser2-2
+Added Pin To Net: NetName=NetJ3_Laser2_2 Pin=U5_Laser2-2
+Added Net: Name=NetJ3_Laser2_2
+Added Pin To Net: NetName=NetJ3_Laser3_1 Pin=J3_Laser3-1
+Added Pin To Net: NetName=NetJ3_Laser3_1 Pin=R1_Laser3-2
+Added Pin To Net: NetName=NetJ3_Laser3_1 Pin=U1_Laser3-1
+Added Net: Name=NetJ3_Laser3_1
+Added Pin To Net: NetName=NetJ3_Laser3_2 Pin=J3_Laser3-2
+Added Pin To Net: NetName=NetJ3_Laser3_2 Pin=U5_Laser3-2
+Added Net: Name=NetJ3_Laser3_2
+Added Pin To Net: NetName=NetJ3_Laser4_1 Pin=J3_Laser4-1
+Added Pin To Net: NetName=NetJ3_Laser4_1 Pin=R1_Laser4-2
+Added Pin To Net: NetName=NetJ3_Laser4_1 Pin=U1_Laser4-1
+Added Net: Name=NetJ3_Laser4_1
+Added Pin To Net: NetName=NetJ3_Laser4_2 Pin=J3_Laser4-2
+Added Pin To Net: NetName=NetJ3_Laser4_2 Pin=U5_Laser4-2
+Added Net: Name=NetJ3_Laser4_2
+Added Pin To Net: NetName=NetJ3_Laser5_1 Pin=J3_Laser5-1
+Added Pin To Net: NetName=NetJ3_Laser5_1 Pin=R1_Laser5-2
+Added Pin To Net: NetName=NetJ3_Laser5_1 Pin=U1_Laser5-1
+Added Net: Name=NetJ3_Laser5_1
+Added Pin To Net: NetName=NetJ3_Laser5_2 Pin=J3_Laser5-2
+Added Pin To Net: NetName=NetJ3_Laser5_2 Pin=U5_Laser5-2
+Added Net: Name=NetJ3_Laser5_2
+Added Pin To Net: NetName=NetJ3_Laser6_1 Pin=J3_Laser6-1
+Added Pin To Net: NetName=NetJ3_Laser6_1 Pin=R1_Laser6-2
+Added Pin To Net: NetName=NetJ3_Laser6_1 Pin=U1_Laser6-1
+Added Net: Name=NetJ3_Laser6_1
+Added Pin To Net: NetName=NetJ3_Laser6_2 Pin=J3_Laser6-2
+Added Pin To Net: NetName=NetJ3_Laser6_2 Pin=U5_Laser6-2
+Added Net: Name=NetJ3_Laser6_2
+Added Pin To Net: NetName=NetJ3_Laser7_1 Pin=J3_Laser7-1
+Added Pin To Net: NetName=NetJ3_Laser7_1 Pin=R1_Laser7-2
+Added Pin To Net: NetName=NetJ3_Laser7_1 Pin=U1_Laser7-1
+Added Net: Name=NetJ3_Laser7_1
+Added Pin To Net: NetName=NetJ3_Laser7_2 Pin=J3_Laser7-2
+Added Pin To Net: NetName=NetJ3_Laser7_2 Pin=U5_Laser7-2
+Added Net: Name=NetJ3_Laser7_2
+Added Pin To Net: NetName=NetJ3_Laser8_1 Pin=J3_Laser8-1
+Added Pin To Net: NetName=NetJ3_Laser8_1 Pin=R1_Laser8-2
+Added Pin To Net: NetName=NetJ3_Laser8_1 Pin=U1_Laser8-1
+Added Net: Name=NetJ3_Laser8_1
+Added Pin To Net: NetName=NetJ3_Laser8_2 Pin=J3_Laser8-2
+Added Pin To Net: NetName=NetJ3_Laser8_2 Pin=U5_Laser8-2
+Added Net: Name=NetJ3_Laser8_2
+Added Pin To Net: NetName=NetR1_Laser1_1 Pin=R1_Laser1-1
+Added Pin To Net: NetName=NetR1_Laser1_1 Pin=U1_Laser1-2
+Added Net: Name=NetR1_Laser1_1
+Added Pin To Net: NetName=NetR1_Laser2_1 Pin=R1_Laser2-1
+Added Pin To Net: NetName=NetR1_Laser2_1 Pin=U1_Laser2-2
+Added Net: Name=NetR1_Laser2_1
+Added Pin To Net: NetName=NetR1_Laser3_1 Pin=R1_Laser3-1
+Added Pin To Net: NetName=NetR1_Laser3_1 Pin=U1_Laser3-2
+Added Net: Name=NetR1_Laser3_1
+Added Pin To Net: NetName=NetR1_Laser4_1 Pin=R1_Laser4-1
+Added Pin To Net: NetName=NetR1_Laser4_1 Pin=U1_Laser4-2
+Added Net: Name=NetR1_Laser4_1
+Added Pin To Net: NetName=NetR1_Laser5_1 Pin=R1_Laser5-1
+Added Pin To Net: NetName=NetR1_Laser5_1 Pin=U1_Laser5-2
+Added Net: Name=NetR1_Laser5_1
+Added Pin To Net: NetName=NetR1_Laser6_1 Pin=R1_Laser6-1
+Added Pin To Net: NetName=NetR1_Laser6_1 Pin=U1_Laser6-2
+Added Net: Name=NetR1_Laser6_1
+Added Pin To Net: NetName=NetR1_Laser7_1 Pin=R1_Laser7-1
+Added Pin To Net: NetName=NetR1_Laser7_1 Pin=U1_Laser7-2
+Added Net: Name=NetR1_Laser7_1
+Added Pin To Net: NetName=NetR1_Laser8_1 Pin=R1_Laser8-1
+Added Pin To Net: NetName=NetR1_Laser8_1 Pin=U1_Laser8-2
+Added Net: Name=NetR1_Laser8_1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser1-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser2-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser3-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser4-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser5-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser6-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser7-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=R5_Laser8-2
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser1-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser2-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser3-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser4-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser5-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser6-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser7-1
+Added Pin To Net: NetName=NetR5_Laser1_2 Pin=U5_Laser8-1
+Added Net: Name=NetR5_Laser1_2
+Added Class: Name=Laser1
+Added Class: Name=Laser2
+Added Class: Name=Laser3
+Added Class: Name=Laser4
+Added Class: Name=Laser5
+Added Class: Name=Laser6
+Added Class: Name=Laser7
+Added Class: Name=Laser8
+Added Class: Name=Lasers
+Added Room: Name=Laser1
+Added Room: Name=Laser2
+Added Room: Name=Laser3
+Added Room: Name=Laser4
+Added Room: Name=Laser5
+Added Room: Name=Laser6
+Added Room: Name=Laser7
+Added Room: Name=Laser8

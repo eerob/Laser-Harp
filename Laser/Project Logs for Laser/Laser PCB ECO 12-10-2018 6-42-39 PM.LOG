@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS1
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS2
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS3
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS4
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS5
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS6
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS7
+Removed Member From Class: ClassName=LASER_BUS[8..1] Member=LASER_BUS8
+Added Pin To Net: NetName=LASER1 Pin=R5_Laser1-2
+Added Pin To Net: NetName=LASER2 Pin=R5_Laser2-2
+Added Pin To Net: NetName=LASER3 Pin=R5_Laser3-2
+Added Pin To Net: NetName=LASER4 Pin=R5_Laser4-2
+Added Pin To Net: NetName=LASER5 Pin=R5_Laser5-2
+Added Pin To Net: NetName=LASER6 Pin=R5_Laser6-2
+Added Pin To Net: NetName=LASER7 Pin=R5_Laser7-2
+Added Pin To Net: NetName=LASER8 Pin=R5_Laser8-2
+Added Pin To Net: NetName=LASER1 Pin=U5_Laser1-1
+Added Pin To Net: NetName=LASER2 Pin=U5_Laser2-1
+Added Pin To Net: NetName=LASER3 Pin=U5_Laser3-1
+Added Pin To Net: NetName=LASER4 Pin=U5_Laser4-1
+Added Pin To Net: NetName=LASER5 Pin=U5_Laser5-1
+Added Pin To Net: NetName=LASER6 Pin=U5_Laser6-1
+Added Pin To Net: NetName=LASER7 Pin=U5_Laser7-1
+Added Pin To Net: NetName=LASER8 Pin=U5_Laser8-1
+Change Class Name : Old Net Name=LASER_BUS[8..1] New Net Name=LASER[8..1]
+Added Class: Name=SENSOR[8..1]
+Added Member To Class: ClassName=LASER[8..1] Member=Element[1]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[2]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[3]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[4]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[5]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[6]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[7]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[8]: LASER

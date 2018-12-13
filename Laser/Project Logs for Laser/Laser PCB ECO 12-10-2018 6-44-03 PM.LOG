@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR1
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR2
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR3
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR4
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR5
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR6
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR7
+Removed Member From Class: ClassName=LASER[8..1] Member=SENSOR8
+Added Pin To Net: NetName=SENSOR1 Pin=J11_Photoresistor1-1
+Added Pin To Net: NetName=SENSOR2 Pin=J11_Photoresistor2-1
+Added Pin To Net: NetName=SENSOR3 Pin=J11_Photoresistor3-1
+Added Pin To Net: NetName=SENSOR4 Pin=J11_Photoresistor4-1
+Added Pin To Net: NetName=SENSOR5 Pin=J11_Photoresistor5-1
+Added Pin To Net: NetName=SENSOR6 Pin=J11_Photoresistor6-1
+Added Pin To Net: NetName=SENSOR7 Pin=J11_Photoresistor7-1
+Added Pin To Net: NetName=SENSOR8 Pin=J11_Photoresistor8-1
+Added Pin To Net: NetName=SENSOR1 Pin=R17_Photoresistor1-1
+Added Pin To Net: NetName=SENSOR2 Pin=R17_Photoresistor2-1
+Added Pin To Net: NetName=SENSOR3 Pin=R17_Photoresistor3-1
+Added Pin To Net: NetName=SENSOR4 Pin=R17_Photoresistor4-1
+Added Pin To Net: NetName=SENSOR5 Pin=R17_Photoresistor5-1
+Added Pin To Net: NetName=SENSOR6 Pin=R17_Photoresistor6-1
+Added Pin To Net: NetName=SENSOR7 Pin=R17_Photoresistor7-1
+Added Pin To Net: NetName=SENSOR8 Pin=R17_Photoresistor8-1
+Added Member To Class: ClassName=LASER[8..1] Member=Element[1]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[2]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[3]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[4]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[5]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[6]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[7]: LASER
+Added Member To Class: ClassName=LASER[8..1] Member=Element[8]: LASER

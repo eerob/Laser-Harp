@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Laser.PcbDoc]
+   Generated File[Laser.TXT]
+   Generated File[Laser.LDP]
+   Generated File[Laser.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:19:56 AM On 12/12/2018

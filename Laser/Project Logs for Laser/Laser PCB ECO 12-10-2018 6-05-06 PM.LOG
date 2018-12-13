@@ -1,0 +1,149 @@
+Removed Pin From Net: NetName=GND Pin=DIGITAL-35
+Removed Pin From Net: NetName=GND Pin=DIGITAL-36
+Removed Pin From Net: NetName=GND Pin=ICSP-6
+Removed Pin From Net: NetName=GND Pin=POWER-2
+Removed Pin From Net: NetName=GND Pin=POWER-3
+Removed Pin From Net: NetName=GND Pin=PWM_H-7
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=Vled Pin=U1-3
+Removed Pin From Net: NetName=Vled Pin=U2-3
+Removed Pin From Net: NetName=Vled Pin=U3-3
+Removed Pin From Net: NetName=Vled Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U8-3
+Removed Pin From Net: NetName=Vled Pin=U9-3
+Removed Pin From Net: NetName=Vled Pin=U10-3
+Removed Pin From Net: NetName=Vled Pin=U11-3
+Removed Pin From Net: NetName=Vled Pin=U12-3
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=GND Pin=U14-3
+Removed Pin From Net: NetName=GND Pin=U15-3
+Removed Pin From Net: NetName=GND Pin=U16-3
+Removed Member From Class: ClassName=Laser Member=AD_H
+Removed Member From Class: ClassName=Laser Member=AD_L
+Removed Member From Class: ClassName=Laser Member=COMMS
+Removed Member From Class: ClassName=Laser Member=DIGITAL
+Removed Member From Class: ClassName=Laser Member=ICSP
+Removed Member From Class: ClassName=Laser Member=J3
+Removed Member From Class: ClassName=Laser Member=J4
+Removed Member From Class: ClassName=Laser Member=J5
+Removed Member From Class: ClassName=Laser Member=J6
+Removed Member From Class: ClassName=Laser Member=J7
+Removed Member From Class: ClassName=Laser Member=J8
+Removed Member From Class: ClassName=Laser Member=J9
+Removed Member From Class: ClassName=Laser Member=J10
+Removed Member From Class: ClassName=Laser Member=POWER
+Removed Member From Class: ClassName=Laser Member=PWM_H
+Removed Member From Class: ClassName=Laser Member=PWM_L
+Removed Member From Class: ClassName=Laser Member=R1
+Removed Member From Class: ClassName=Laser Member=R2
+Removed Member From Class: ClassName=Laser Member=R3
+Removed Member From Class: ClassName=Laser Member=R4
+Removed Member From Class: ClassName=Laser Member=R5
+Removed Member From Class: ClassName=Laser Member=R6
+Removed Member From Class: ClassName=Laser Member=R7
+Removed Member From Class: ClassName=Laser Member=R8
+Removed Member From Class: ClassName=Laser Member=R9
+Removed Member From Class: ClassName=Laser Member=R10
+Removed Member From Class: ClassName=Laser Member=R11
+Removed Member From Class: ClassName=Laser Member=R12
+Removed Member From Class: ClassName=Laser Member=R13
+Removed Member From Class: ClassName=Laser Member=R14
+Removed Member From Class: ClassName=Laser Member=R15
+Removed Member From Class: ClassName=Laser Member=R16
+Removed Member From Class: ClassName=Laser Member=U1
+Removed Member From Class: ClassName=Laser Member=U2
+Removed Member From Class: ClassName=Laser Member=U3
+Removed Member From Class: ClassName=Laser Member=U4
+Removed Member From Class: ClassName=Laser Member=U5
+Removed Member From Class: ClassName=Laser Member=U6
+Removed Member From Class: ClassName=Laser Member=U7
+Removed Member From Class: ClassName=Laser Member=U8
+Removed Member From Class: ClassName=Laser Member=U9
+Removed Member From Class: ClassName=Laser Member=U10
+Removed Member From Class: ClassName=Laser Member=U11
+Removed Member From Class: ClassName=Laser Member=U12
+Removed Member From Class: ClassName=Laser Member=U13
+Removed Member From Class: ClassName=Laser Member=U14
+Removed Member From Class: ClassName=Laser Member=U15
+Removed Member From Class: ClassName=Laser Member=U16
+Added Component: Designator=J11_Photoresistor1(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor2(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor3(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor4(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor5(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor6(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor7(PHOENIX_1935161)
+Added Component: Designator=J11_Photoresistor8(PHOENIX_1935161)
+Added Component: Designator=R17_Photoresistor1(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor2(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor3(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor4(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor5(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor6(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor7(AXIAL-0.3)
+Added Component: Designator=R17_Photoresistor8(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor1-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor2-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor3-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor4-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor5-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor6-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor7-2
+Added Pin To Net: NetName=GND Pin=J11_Photoresistor8-2
+Added Pin To Net: NetName=+5V Pin=POWER-1
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor1-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor2-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor3-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor4-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor5-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor6-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor7-2
+Added Pin To Net: NetName=+5V Pin=R17_Photoresistor8-2
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor1-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor2-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor3-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor4-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor5-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor6-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor7-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=J11_Photoresistor8-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor1-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor2-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor3-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor4-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor5-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor6-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor7-1
+Added Pin To Net: NetName=NetJ11_Photoresistor1_1 Pin=R17_Photoresistor8-1
+Added Net: Name=NetJ11_Photoresistor1_1
+Change Class Name : Old Net Name=Laser New Net Name=Laser_Harp_Top
+Added Class: Name=Photoresistor1
+Added Class: Name=Photoresistor2
+Added Class: Name=Photoresistor3
+Added Class: Name=Photoresistor4
+Added Class: Name=Photoresistor5
+Added Class: Name=Photoresistor6
+Added Class: Name=Photoresistor7
+Added Class: Name=Photoresistor8
+Added Class: Name=U_uC
+Added Class: Name=Photoresistors
+Added Room: Name=Laser_Harp_Top
+Added Room: Name=Photoresistor1
+Added Room: Name=Photoresistor2
+Added Room: Name=Photoresistor3
+Added Room: Name=Photoresistor4
+Added Room: Name=Photoresistor5
+Added Room: Name=Photoresistor6
+Added Room: Name=Photoresistor7
+Added Room: Name=Photoresistor8
+Added Room: Name=U_uC

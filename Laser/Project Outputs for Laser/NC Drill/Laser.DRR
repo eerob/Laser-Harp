@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Laser.PcbDoc   12/12/2018  10:19:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Laser.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      30mil (0.762mm)                                           Round             82        PTH        0.00inch (0.00mm)
+T2      33mil (0.838mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      33mil (0.85mm)                                            Round             32        PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             22        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      45mil (1.143mm)                                           Round             48        PTH        0.00inch (0.00mm)
+T7      51mil (1.3mm)                                             Round             43        PTH        0.00inch (0.00mm)
+T8      126mil (3.2mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T9      130mil (3.302mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              245
+
+Total Processing Time (hh:mm:ss) : 00:00:00
